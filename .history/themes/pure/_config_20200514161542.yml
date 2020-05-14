@@ -123,11 +123,10 @@ comment:
   gitalk: # gitalk. https://gitalk.github.io/
     enable: true #是否开启
     owner: yuyuanqiu #必须. GitHub repository 所有者，可以是个人或者组织。
-    adminUser: yuyuanqiu #必须. GitHub repository 的所有者和合作者 (对这个 repository 有写权限的用户)。  
+    admin: yuyuanqiu #必须. GitHub repository 的所有者和合作者 (对这个 repository 有写权限的用户)。  
     repo: blogs #必须. GitHub repository.
     ClientID: 9728df90fcd6930085d3 #必须. GitHub Application Client ID.
     ClientSecret: b81ed5c7ffa5b647582d6d1941aa8047d736fea7 #必须. GitHub Application Client Secret.
-    distractionFreeMode: true # 是否开启分心自由模式 也就是免打扰
   valine: # Valine. https://valine.js.org
     appid:  # your leancloud application appid
     appkey:  # your leancloud application appkey
