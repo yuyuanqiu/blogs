@@ -522,7 +522,8 @@ window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
     repo: 'blogs',
     owner: 'yuyuanqiu',
     admin: ['yuyuanqiu'],
-    id: md5(location.pathname),
+    // id: md5(location.pathname),
+    id: (location.pathname).split("/").pop().substring(0, 49),
     distractionFreeMode: true
   })
   gitalk.render('comments')
