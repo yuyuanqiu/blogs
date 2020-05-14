@@ -82,16 +82,16 @@ search:
   baidu: false # you need to disable other search engines to use Baidu search
 
 # Donate
-donate:
-  enable: false
-  # 微信打赏
-  wechatpay:
-    qrcode: ../images/logo.png
-    title: 微信支付
-  # 支付宝打赏
-  alipay: 
-    qrcode: ../images/logo.png
-    title: 支付宝
+# donate:
+#   enable: false
+#   # 微信打赏
+#   wechatpay:
+#     qrcode: ../images/logo.png
+#     title: 微信支付
+#   # 支付宝打赏
+#   alipay: 
+#     qrcode: ../images/logo.png
+#     title: 支付宝
 
 # Share
 # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin

@@ -108,15 +108,15 @@ github:
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
 comment:
-  type: gitment # valine  # 启用哪种评论系统
+  type: valine  # 启用哪种评论系统
   disqus:  # enter disqus shortname here
   youyan: 
     uid: 1783844 # enter youyan uid 
   livere:
     uid: # enter youyan uid 
   gitment:
-    githubID: yuyuanqiu
-    repo: https://yuyuanqiu.github.io/blogs/
+    githubID: 
+    repo: 
     ClientID: 9728df90fcd6930085d3
     ClientSecret: b81ed5c7ffa5b647582d6d1941aa8047d736fea7
     lazy: false
