@@ -5,9 +5,9 @@ menu:
   Categories: categories  # 分类
   Tags: tags  # 标签
   Repository: repository  # github repositories
-  # Books: books  # 豆瓣书单
-  # Links: links  # 友链
-  # About: about  # 关于
+  Books: books  # 豆瓣书单
+  Links: links  # 友链
+  About: about  # 关于
 
 # Enable/Disable menu icons
 menu_icons:
@@ -230,5 +230,5 @@ profile:
       date: 2020
   # My Personal Projects
   projects:
-    undefined1: http://www.example.com
-    undefined2: http://www.example.com
+    cofess/gulp-startpro: http://www.example.com
+    cofess/hexo-theme-pure: http://www.example.com

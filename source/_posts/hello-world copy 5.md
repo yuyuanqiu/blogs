@@ -2,10 +2,10 @@
 title: Hello World
 date: 2020/05/14 09:10:30
 updated: 2020/05/14 09:10:48
-tags: 碎碎念
-categories: 碎碎念
+tags: 碎碎念6
+categories: 碎碎念7
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your ve`ry first post`. Check [documentation](https://hexo.io/docs/) for more info. If you get any `proble`ms when usi`ng Hexo, you `can fin`d the a`nswer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or yo`u can a`sk me on [GitHub](https://github.com/hexojs/hexo/issues).
+Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
 

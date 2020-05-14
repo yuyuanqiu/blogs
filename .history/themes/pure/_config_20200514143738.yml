@@ -5,9 +5,9 @@ menu:
   Categories: categories  # 分类
   Tags: tags  # 标签
   Repository: repository  # github repositories
-  # Books: books  # 豆瓣书单
-  # Links: links  # 友链
-  # About: about  # 关于
+  Books: books  # 豆瓣书单
+  Links: links  # 友链
+  About: about  # 关于
 
 # Enable/Disable menu icons
 menu_icons:
@@ -86,23 +86,23 @@ donate:
   enable: true
   # 微信打赏
   wechatpay:
-    qrcode: ../images/logo.png
+    qrcode: images/donate/wechatpayimg.png
     title: 微信支付
   # 支付宝打赏
   alipay: 
-    qrcode: ../images/logo.png
+    qrcode: images/donate/alipayimg.png 
     title: 支付宝
 
 # Share
 # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
 share:
   enable: true  # 是否启用分享
-  sites: weibo,qq,wechat    #,facebook,twitter  # PC端显示的分享图标
+  sites: weibo,qq,wechat,facebook,twitter  # PC端显示的分享图标
   mobile_sites: weibo,qq,qzone  # 移动端显示的分享图标
 
 # Github
 github: 
-  username: yuyuanqiu  # github username
+  username: cofess  # github username
 
 # Comment
 # Gitment
@@ -230,5 +230,5 @@ profile:
       date: 2020
   # My Personal Projects
   projects:
-    undefined1: http://www.example.com
-    undefined2: http://www.example.com
+    cofess/gulp-startpro: http://www.example.com
+    cofess/hexo-theme-pure: http://www.example.com
