@@ -116,7 +116,7 @@ comment:
     uid: # enter youyan uid 
   gitment:
     githubID: yuyuanqiu
-    repo: blogs
+    repo: blogs/
     ClientID: 9728df90fcd6930085d3
     ClientSecret: b81ed5c7ffa5b647582d6d1941aa8047d736fea7
     lazy: false
