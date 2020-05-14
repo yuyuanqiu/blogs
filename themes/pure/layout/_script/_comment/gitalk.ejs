@@ -10,7 +10,8 @@
     owner: '<%= theme.comment.gitalk.owner %>',
     admin: ['<%= theme.comment.gitalk.admin %>'],
     // id: md5(location.pathname),
-    id: (Math.floor(Math.random() * 100000000)).toString(),
+    id: location.pathname,
+    // id: (Math.floor(Math.random() * 100000000)).toString(),
     distractionFreeMode: true
   })
   gitalk.render('comments')
