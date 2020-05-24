@@ -1,7 +1,8 @@
 ---
 title: suisuinian
 date: 2020-05-14 17:56:29
-tags: 碎碎念      
+tags: 碎碎念   
+categories: 随感   
 ---
 
 # 众事都难
