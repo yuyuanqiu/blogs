@@ -16,7 +16,7 @@ if [[ "$flag" == "$y" ]]
 then
   git add --all
   git commit -m "$commits"
-  git push origin dev_qiu
+  git push origin master
   echo -e '++++++++++++++++++++++++++++++++\n\n\n\n\n\n'
   git status
   echo -e '\n\n\n\n\n\n++++++++++++++++++++++++++++++++'
