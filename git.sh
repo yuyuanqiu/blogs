@@ -19,7 +19,7 @@ then
   git push origin master
   echo -e '++++++++++++++++++++++++++++++++\n\n\n\n\n\n'
   git status
-  echo -e '\n\n\n\n\n\n++++++++++++++++++++++++++++++++'
+echo -e '\n\n\n\n\n\n++++++++++++++++++++++++++++++++'
 else
   echo -e '\n\n\n\n\n\n没有做任何操作\n\n\n\n\n\n'
 fi
