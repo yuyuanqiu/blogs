@@ -16,7 +16,7 @@ if [[ "$flag" == "$y" ]]
 then
   git add --all
   git commit -m "$commits"
-  git push
+  git push master
   echo -e '++++++++++++++++++++++++++++++++\n\n\n\n\n\n'
   git status
   echo -e '\n\n\n\n\n\n++++++++++++++++++++++++++++++++'
